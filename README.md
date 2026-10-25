@@ -111,7 +111,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('varshan.jpeg') 
+image = cv2.imread('Qno.1.jpg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -131,7 +131,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('varshan.jpeg') 
+image = cv2.imread('Qno.1.jpg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -151,7 +151,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('Qno. 1.jpg') 
+image = cv2.imread('Qno.1.jpg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -172,7 +172,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('Qno. 1.jpg') 
+image = cv2.imread('Qno.1.jpg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -192,7 +192,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('varshan.jpeg') 
+image = cv2.imread('Qno.1.jpg') 
 
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 
@@ -252,7 +252,7 @@ plt.show()
 ### Step 5: Image Resizing
 
 ```python
-image = cv2.imread('varshan.jpeg') 
+image = cv2.imread('Qno.1.jpg') 
 image.shape
 
 # Resize the image to half its size
@@ -274,7 +274,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('varshan.jpeg')
+image = cv2.imread('Qno.1.jpg')
 
 image.shape
 
@@ -295,7 +295,7 @@ plt.show()
 
 ```python
 # Load the image
-image = cv2.imread('varshan.jpeg')
+image = cv2.imread('Qno.1.jpg')
 
 # Flip the image horizontally (left-right)
 flipped_horizontally = cv2.flip(image, 1)
