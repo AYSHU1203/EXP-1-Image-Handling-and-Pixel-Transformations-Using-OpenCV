@@ -1,9 +1,9 @@
 # EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV
 
 
-## Name: AYSHWARIYA J
+# Name: AYSHWARIYA J
 
-## Register Number: 212224230030
+# Register Number: 212224230030
 
 
 ---
